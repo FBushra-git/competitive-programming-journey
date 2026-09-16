@@ -1,0 +1,1 @@
+{"name":"Local: 1012","url":"d:\\Competitive-Programming\\BeeCrowd\\1012.cpp","tests":[{"id":1789543591031,"input":"3.0 4.0 5.2","output":"\t\nTRIANGULO: 7.800\nCIRCULO: 84.949\nTRAPEZIO: 18.200\nQUADRADO: 16.000\nRETANGULO: 12.000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Competitive-Programming\\BeeCrowd\\1012.cpp","group":"local","local":true}
